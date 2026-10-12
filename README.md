@@ -2,7 +2,7 @@
 
 **Software Engineer · Mobile Development · Enterprise Integration · .NET APIs**
 
-[Portfolio](https://melshenawyarabapps.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/mohamed-elshenawy-80334122a/)
+[Portfolio](https://melshenawyarabapps.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/mohamed-elshennawy-80334122a/)
 
 I build mobile applications, backend APIs, and enterprise integrations. With 4+ years of software engineering experience, I work across Flutter, native iOS and Android, .NET Core, and IBM App Connect Enterprise (ACE). At Arab Apps, I lead Flutter developers, design application architecture, and mentor junior engineers.
 
@@ -55,4 +55,4 @@ Configured IBM MQ queues and local channels for reliable, decoupled communicatio
 
 **Bachelor of Computer Science, Tanta University** · 2019 - 2023 · GPA: 3.5/4.0
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-elshenawy-80334122a/) or explore my [portfolio](https://melshenawyarabapps.github.io/portfolio/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-elshennawy-80334122a/) or explore my [portfolio](https://melshenawyarabapps.github.io/portfolio/).
